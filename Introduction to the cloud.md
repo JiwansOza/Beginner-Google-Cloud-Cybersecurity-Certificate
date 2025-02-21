@@ -1,4 +1,4 @@
-# Cloud Infrastructure Quiz
+# Introduction to the cloud 
 
 ## 1. What are two advantages of cloud-based infrastructure?  
    _Select two answers._  
